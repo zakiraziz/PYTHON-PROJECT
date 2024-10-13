@@ -2,7 +2,7 @@ def sum(a, b, c ):
     return a + b + c
 
 def printBoard(xState, zState):
-    zero = 'X' if xState[0] else ('O' if zState[0] else 0)
+    zero = 'X' if xState[0] else ('O' if zState[0] else 0) 
     one = 'X' if xState[1] else ('O' if zState[1] else 1)
     two = 'X' if xState[2] else ('O' if zState[2] else 2)
     three = 'X' if xState[3] else ('O' if zState[3] else 3)
