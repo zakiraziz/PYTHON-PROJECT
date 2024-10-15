@@ -4,7 +4,7 @@ import pymunk.pygame_util
 import math
 
 pygame.init()
-
+ 
 SCREEN_WIDTH = 1200
 SCREEN_HEIGHT = 678
 BOTTOM_PANEL = 50
