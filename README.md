@@ -8,7 +8,7 @@ In this project, we:
 - Draw a red-filled triangle.
 - Draw a blue-filled square.
 - Draw a green-filled circle.
-
+ 
 The shapes are created using loops, and the turtle is positioned at specific points to draw each shape sequentially.
 
 ## Code
