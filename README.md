@@ -5,7 +5,7 @@ This Python project uses the `turtle` module to create a colorful design with sh
 ## Project Description
 
 In this project, we:
-- Draw a red-filled triangle.
+- Draw a red-filled triangle. 
 - Draw a blue-filled square.
 - Draw a green-filled circle.
  
